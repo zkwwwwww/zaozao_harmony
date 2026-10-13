@@ -1,0 +1,8 @@
+{
+  "name": "zaozao-harmony",
+  "private": true,
+  "description": "植早早鸿蒙应用的日期与提醒算法检查",
+  "scripts": {
+    "test": "node --test logic/care.test.js"
+  }
+}

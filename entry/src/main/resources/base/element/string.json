@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "ability_label",
+      "value": "植早早"
+    },
+    {
+      "name": "ability_desc",
+      "value": "记录植物生长与养护"
+    },
+    {
+      "name": "module_desc",
+      "value": "植早早"
+    }
+  ]
+}
